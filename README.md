@@ -33,7 +33,7 @@ Age: 33 years, 9 months, 4 days
 
 
 ## Credits
-This program was developed by [Your Name] for [Your Company].
+This program was developed by --Mehedi.
 
 ## License
 This project is licensed under the [MIT] License - see the LICENSE.md file for details.
